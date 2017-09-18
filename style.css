@@ -1,0 +1,27 @@
+body {
+  color: purple;
+  font-family: 'Questrial', sans-serif;
+  background-color: lavender;
+}
+
+h1{
+  color: blue;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 15pt;
+}
+
+h2{
+  color: blue;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 15pt;
+}
+
+h3{
+  color: blue;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 15pt;
+}
+
+a:hover {
+    background-color: yellow;
+}
