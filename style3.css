@@ -1,0 +1,13 @@
+body{
+  color: green;
+  font-family: 'Slabo 27px', serif;
+  background-color: lightblue;
+}
+h1 {
+  color: dark green;
+  font-family: 'Inconsolata', monospace;
+  font-size: 16pt;
+}
+a:hover {
+  background-color: pink;
+}
