@@ -1,0 +1,23 @@
+body{
+    background-color: lavenderblush;
+}
+
+h1{
+  color: blueviolet;
+  font-family: 'Pacifico', cursive;
+}
+
+img{
+  width: 400px;
+}
+
+td{
+   color: darkslategray;
+   font-family: 'Acme', sans-serif;
+   padding: 10px;
+   vertical-align: top;
+}
+
+ul{
+  list-style-type: none;
+}
